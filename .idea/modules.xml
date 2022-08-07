@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Da_Hinh/Da_Hinh.iml" filepath="$PROJECT_DIR$/Da_Hinh/Da_Hinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_45thuchanhOOP/_45thuchanhOOP.iml" filepath="$PROJECT_DIR$/_45thuchanhOOP/_45thuchanhOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ke_thua/ke_thua.iml" filepath="$PROJECT_DIR$/ke_thua/ke_thua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overiding/overiding.iml" filepath="$PROJECT_DIR$/overiding/overiding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vidu_bienVaHamCuaClass.iml" filepath="$PROJECT_DIR$/vidu_bienVaHamCuaClass.iml" />
+    </modules>
+  </component>
+</project>
